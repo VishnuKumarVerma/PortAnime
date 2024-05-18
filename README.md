@@ -35,5 +35,6 @@ A beautifully designed animated portfolio website built with React, CSS and HTML
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+## Credits and Support:-
 [Youtube](https://youtu.be/CHGHuF24Cjw?si=OXXlQggG6BOPVys4)
 [GitHub](https://github.com/safak/animated-portfolio)
